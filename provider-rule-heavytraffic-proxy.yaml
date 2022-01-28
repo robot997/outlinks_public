@@ -1,0 +1,13 @@
+payload:
+  - PROCESS-NAME,onedrive
+  - PROCESS-NAME,OfficeClickToRun
+  - PROCESS-NAME,onenoteim
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,sharepoint
+  - DOMAIN-SUFFIX,pushnp.svc.ms
+  - DOMAIN-SUFFIX,data.microsoft.com
+  - DOMAIN-KEYWORD,microsoft365
+  - DOMAIN-KEYWORD,office365
